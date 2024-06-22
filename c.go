@@ -3,7 +3,7 @@ package c
 import (
 	"fmt"
 
-	"bitbucket.org/bigwhite/d"
+	"github.com/hustjimmy/d"
 )
 
 func CallC() {
